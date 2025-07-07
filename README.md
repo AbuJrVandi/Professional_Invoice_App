@@ -1,9 +1,10 @@
 # 📱 Invoice App
 
 <div align="center">
-  [<img src="frontend/assets/Invoice_logo.jpg" alt="Invoice App Logo" width="200"/>](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/834bd7f7d0b09ee0fd64600a7bef6c3d825c1f6a/LOG.png)
   <h3 align="center">Professional Invoice & Receipt Management</h3>
 </div>
+
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/834bd7f7d0b09ee0fd64600a7bef6c3d825c1f6a/LOG.png)
 
 ## 📝 Description
 
