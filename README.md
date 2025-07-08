@@ -83,25 +83,25 @@ Invoice App is a comprehensive mobile application built with React Native that h
   <h3 align="center">Login Screen</h3>
 </div>
 
-![Alt Text]()
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/d70daaea2f489fc3e9ecbd90d88cbdb6ca8978b4/Login.png)
 
 <div align="center">
   <h3 align="center"> Dashboard Screen</h3>
 </div>
 
-![Alt Text]()
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/d70daaea2f489fc3e9ecbd90d88cbdb6ca8978b4/Dashboard.jpeg)
 
 <div align="center">
   <h3 align="center">Invoice Creation </h3>
 </div>
 
-![Alt Text]()
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/d70daaea2f489fc3e9ecbd90d88cbdb6ca8978b4/pdf_invoice.png)
 
 <div align="center">
   <h3 align="center"> Receipt View </h3>
 </div>
 
-![Alt Text]()
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/d70daaea2f489fc3e9ecbd90d88cbdb6ca8978b4/Receipt.png)
   
   [Login Screen] [Dashboard] [Invoice Creation] [Receipt View]
 
@@ -232,5 +232,5 @@ Project Link: [https://github.com/yourusername/invoice-app](https://github.com/y
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Abu Junior Vandi
 </div> 
