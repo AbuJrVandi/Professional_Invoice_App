@@ -80,12 +80,30 @@ Invoice App is a comprehensive mobile application built with React Native that h
 ## 📸 Screenshots
 
 <div align="center">
-  <p><i>Screenshots will be added here</i></p>
-  
-  ```
-  [Login Screen] [Dashboard] [Invoice Creation] [Receipt View]
-  ```
+  <h3 align="center">Login Screen</h3>
 </div>
+
+![Alt Text]()
+
+<div align="center">
+  <h3 align="center"> Dashboard Screen</h3>
+</div>
+
+![Alt Text]()
+
+<div align="center">
+  <h3 align="center">Invoice Creation </h3>
+</div>
+
+![Alt Text]()
+
+<div align="center">
+  <h3 align="center"> Receipt View </h3>
+</div>
+
+![Alt Text]()
+  
+  [Login Screen] [Dashboard] [Invoice Creation] [Receipt View]
 
 ## 🚦 Getting Started
 
