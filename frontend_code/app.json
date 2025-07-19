@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Invoice App",
+    "slug": "invoice-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Invoice_logo.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Invoice_logo.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.invoiceapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Invoice_logo.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.invoiceapp",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/Invoice_logo.jpg"
+    }
+  }
+}
