@@ -214,5 +214,5 @@ Project Link: [https://github.com/yourusername/invoice-app](https://github.com/y
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with by Abu Junior Vandi
 </div> 
