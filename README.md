@@ -4,7 +4,7 @@
   <h3 align="center">Professional Invoice & Receipt Management</h3>
 </div>
 
-![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/834bd7f7d0b09ee0fd64600a7bef6c3d825c1f6a/LOG.png)
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/57b1f8156f300c541fa6e819b0b555007908ed80/LOG.png)
 
 ## 📝 Description
 
@@ -80,12 +80,30 @@ Invoice App is a comprehensive mobile application built with React Native that h
 ## 📸 Screenshots
 
 <div align="center">
-  <p><i>Screenshots will be added here</i></p>
-  
-  ```
-  [Login Screen] [Dashboard] [Invoice Creation] [Receipt View]
-  ```
+  <h3 align="center">Login Screen </h3>
 </div>
+
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/57b1f8156f300c541fa6e819b0b555007908ed80/Login.png)
+
+
+<div align="center">
+  <h3 align="center">Dashboard </h3>
+</div>
+
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/57b1f8156f300c541fa6e819b0b555007908ed80/Dashboard.jpeg)
+
+
+<div align="center">
+  <h3 align="center"> Invoice PDF </h3>
+</div>
+
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/57b1f8156f300c541fa6e819b0b555007908ed80/pdf_invoice.png)
+
+<div align="center">
+  <h3 align="center"> Receipt View </h3>
+</div>
+
+![Alt Text](https://github.com/AbuJrVandi/Professional_Invoice_App/blob/57b1f8156f300c541fa6e819b0b555007908ed80/Receipt.png)
 
 ## 🚦 Getting Started
 
